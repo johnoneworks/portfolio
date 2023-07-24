@@ -29,10 +29,10 @@ const siteProps = {
   email: "pheno_the_best@yahoo.com.tw",
   gitHub: "phenogit",
   instagram: "",
-  linkedIn: "satyanadella",
+  linkedIn: "john-huang-61439b22a",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";

@@ -26,9 +26,9 @@ import "./styles.css";
 const siteProps = {
   name: "John Huang",
   title: "Some random dude",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
+  email: "pheno_the_best@yahoo.com.tw",
+  gitHub: "phenogit",
+  instagram: "",
   linkedIn: "satyanadella",
   medium: "",
   twitter: "microsoft",
